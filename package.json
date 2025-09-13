@@ -7,7 +7,7 @@
   "homepage": "https://github.com/themewagon/Next.js-Tailwind-CSS-Portfolio-Template",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next-public-copy",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
