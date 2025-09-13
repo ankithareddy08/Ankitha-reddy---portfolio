@@ -38,7 +38,7 @@ export function Resume() {
             A creative UI/UX Designer and aspiring Frontend Developer, passionate about bridging the gap between beautiful design and functional code.
           </Typography>
           {/* This link now points to your resume PDF */}
-          <a href="/Ankitha-Reddy-Resume.pdf" download>
+          <a href="/Ankitha-reddy---portfolio/Ankitha-Reddy-Resume.pdf" download>
             <Button
               variant="text"
               color="gray"

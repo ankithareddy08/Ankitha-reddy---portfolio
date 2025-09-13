@@ -47,7 +47,7 @@ function Hero() {
           width={1024}
           height={1024}
           alt="team work"
-          src={`${getImagePrefix()}image/avatar1.jpg`}
+          src={`/Ankitha-reddy---portfolio/image/avatar1.jpg`}
           className="h-[36rem] w-full rounded-xl object-cover"
         />
       </div>
