@@ -7,12 +7,12 @@ import { getImagePrefix } from "../../utils/utils";
 const PROJECTS = [
   
   {
-    img: `/image/cyberspace-project.png `, // IMPORTANT: Add an image for your project to the public/image folder
+    img: `/Ankitha-reddy---portfolio/image/cyberspace-project.png`, // IMPORTANT: Add an image for your project to the public/image folder
     title: "Cyberspace (Metaverse App)",
     desc: "A UI/UX design concept for an immersive metaverse platform. The focus was on creating an intuitive, engaging, and accessible user journey from onboarding to social interaction. Tools: Figma, Adobe Illustrator.",
   },
   {
-    img: `/image/final-dawn-project.png`, // IMPORTANT: Add an image for your project to the public/image folder
+    img: `/Ankitha-reddy---portfolio/image/final-dawn-project.png`, // IMPORTANT: Add an image for your project to the public/image folder
     title: "Operation Final Dawn (Game)",
     desc: "UI/UX design for a tactical action game's interface and HUD. The solution focused on a visually compelling design that presents critical information clearly without breaking player immersion. Tools: Figma, Adobe Photoshop.",
   },
